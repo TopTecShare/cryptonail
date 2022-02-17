@@ -9,6 +9,8 @@ html {
   -webkit-text-size-adjust: 100%;
 }
 body {
+  font-family: "Press Start 2P";
+  font-size: 22px;
   margin: 0;
 }
 nav {
